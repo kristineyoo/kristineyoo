@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kristineyoo 
-- 👀 I’m interested in computer science, cloud computing, AI, machine learninf
-- 🌱 I’m currently learning python, c#, and Java in my APCSA class
+- 💒 Hi, I’m @kristineyoo 
+- 💌 I’m interested in AI and backend development 
+- 🎀 I’m currently learning python, c#, and Java
+- 🩰 I'm in Harvard's CS50 online course and APCSA
 - 💞️ I’m looking to collaborate on any project
 
 <!---
