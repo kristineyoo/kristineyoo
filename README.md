@@ -1,4 +1,5 @@
 - 💒 Hi, I’m @kristineyoo 
+- 🍒 16 y/o in LI,NY
 - 💌 I’m interested in AI and backend development 
 - 🎀 I’m currently learning python, c#, and Java
 - 🩰 I'm in Harvard's CS50 online course and APCSA
